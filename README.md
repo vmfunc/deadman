@@ -1,2 +1,0 @@
-# deadman
-Computer deadman switch
